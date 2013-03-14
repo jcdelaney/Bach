@@ -1,6 +1,5 @@
 John Delaney
 Andres Fonseca
-CS 122 Project
 
 ===========================
 Installation Instructions
